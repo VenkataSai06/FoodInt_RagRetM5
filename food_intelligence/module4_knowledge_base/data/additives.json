@@ -1,0 +1,87 @@
+[
+    {
+        "code": "330",
+        "canonical_name": "Citric Acid",
+        "category": "Acidity Regulator / Antioxidant",
+        "ins_number": "INS 330",
+        "e_number": "E330",
+        "description": "Naturally occurring organic acid found in citrus fruits. Used to regulate acidity, enhance flavor, and act as an antioxidant in beverages, preserves, and processed foods.",
+        "health_effects": [
+            "Generally Recognized As Safe (GRAS) by global authorities.",
+            "May cause minor teeth enamel erosion if consumed in excessive concentrated amounts."
+        ],
+        "safety_rating": "Safe",
+        "max_daily_intake_note": "Not limited under standard dietary guidelines."
+    },
+    {
+        "code": "407",
+        "canonical_name": "Carrageenan",
+        "category": "Gelling Agent / Thickener / Stabilizer",
+        "ins_number": "INS 407",
+        "e_number": "E407",
+        "description": "Extracted from edible red seaweeds. Used widely to gel, thicken, and stabilize food products like dairy, jellies, and plant-based milks.",
+        "health_effects": [
+            "Food-grade refined carrageenan is approved for human consumption.",
+            "Some individuals report gastrointestinal sensitivity or bloating with high intake."
+        ],
+        "safety_rating": "Safe",
+        "max_daily_intake_note": "ADI is established at up to 75 mg/kg body weight per day."
+    },
+    {
+        "code": "211",
+        "canonical_name": "Sodium Benzoate",
+        "category": "Preservative",
+        "ins_number": "INS 211",
+        "e_number": "E211",
+        "description": "Chemical preservative commonly used in acidic foods such as fruit juices, jellies, carbonated drinks, and condiments to inhibit growth of mold, yeast, and bacteria.",
+        "health_effects": [
+            "Safe at regulatory limits.",
+            "When combined with Vitamin C (Ascorbic Acid) under heat/light, small amounts of benzene can form.",
+            "May cause mild hypersensitivity reactions in asthmatic individuals."
+        ],
+        "safety_rating": "Caution",
+        "max_daily_intake_note": "Acceptable Daily Intake (ADI) is 0 to 5 mg/kg body weight."
+    },
+    {
+        "code": "102",
+        "canonical_name": "Tartrazine",
+        "category": "Synthetic Food Color",
+        "ins_number": "INS 102",
+        "e_number": "E102",
+        "description": "Synthetic lemon yellow azo dye used in jellies, confectionery, soft drinks, and snacks.",
+        "health_effects": [
+            "Associated with hyperactivity symptoms in sensitive children.",
+            "Can trigger allergic reactions or hives in people sensitive to aspirin."
+        ],
+        "safety_rating": "Caution",
+        "max_daily_intake_note": "ADI is 7.5 mg/kg body weight."
+    },
+    {
+        "code": "133",
+        "canonical_name": "Brilliant Blue FCF",
+        "category": "Synthetic Food Color",
+        "ins_number": "INS 133",
+        "e_number": "E133",
+        "description": "Synthetic blue dye used in jellies, beverages, baked goods, and syrups.",
+        "health_effects": [
+            "Generally safe within approved limits.",
+            "Rare cases of mild hypersensitivity."
+        ],
+        "safety_rating": "Safe",
+        "max_daily_intake_note": "ADI is 6 mg/kg body weight."
+    },
+    {
+        "code": "621",
+        "canonical_name": "Monosodium Glutamate (MSG)",
+        "category": "Flavor Enhancer",
+        "ins_number": "INS 621",
+        "e_number": "E621",
+        "description": "Sodium salt of glutamic acid, providing umami savory flavor in noodles, soups, and savory snacks.",
+        "health_effects": [
+            "Deemed safe by FDA and EFSA.",
+            "Transient sensitivity (headache, flushing) reported in sensitive consumers when consumed in very high doses without food."
+        ],
+        "safety_rating": "Safe",
+        "max_daily_intake_note": "ADI not specified (consumed at customary dietary levels)."
+    }
+]

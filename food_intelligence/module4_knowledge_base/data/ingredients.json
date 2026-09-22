@@ -1,0 +1,107 @@
+[
+    {
+        "canonical_id": "carrageenan",
+        "name": "Carrageenan",
+        "synonyms": [
+            "seaweed extract",
+            "red algae extract",
+            "E407",
+            "INS 407"
+        ],
+        "category": "Gelling Agent",
+        "description": "Vegetable gelling agent derived from edible red seaweed, commonly used as a plant-based gelatin substitute.",
+        "allergens": [],
+        "health_notes": [
+            "Suitable for vegetarian and vegan diets."
+        ],
+        "dietary_attributes": {
+            "vegan": true,
+            "vegetarian": true,
+            "gluten_free": true
+        }
+    },
+    {
+        "canonical_id": "citric_acid",
+        "name": "Citric Acid",
+        "synonyms": [
+            "E330",
+            "INS 330",
+            "lemon acid"
+        ],
+        "category": "Acidity Regulator",
+        "description": "Organic fruit acid providing tartness and serving as a natural preservative.",
+        "allergens": [],
+        "health_notes": [
+            "Non-toxic organic compound naturally present in citrus fruits."
+        ],
+        "dietary_attributes": {
+            "vegan": true,
+            "vegetarian": true,
+            "gluten_free": true
+        }
+    },
+    {
+        "canonical_id": "sugar",
+        "name": "Sugar",
+        "synonyms": [
+            "sucrose",
+            "refined sugar",
+            "cane sugar",
+            "table sugar"
+        ],
+        "category": "Sweetener",
+        "description": "Simple carbohydrate providing quick energy and sweetness to food products.",
+        "allergens": [],
+        "health_notes": [
+            "Excessive consumption is linked to dental caries, weight gain, and spike in blood glucose."
+        ],
+        "dietary_attributes": {
+            "vegan": true,
+            "vegetarian": true,
+            "gluten_free": true
+        }
+    },
+    {
+        "canonical_id": "palm_oil",
+        "name": "Palm Oil",
+        "synonyms": [
+            "vegetable fat (palm)",
+            "refined palm oil",
+            "palmolein"
+        ],
+        "category": "Fats & Oils",
+        "description": "Edible vegetable oil derived from the mesocarp of the fruit of oil palms.",
+        "allergens": [],
+        "health_notes": [
+            "High in saturated fats. Excessive intake may increase LDL cholesterol."
+        ],
+        "dietary_attributes": {
+            "vegan": true,
+            "vegetarian": true,
+            "gluten_free": true
+        }
+    },
+    {
+        "canonical_id": "wheat_flour",
+        "name": "Wheat Flour",
+        "synonyms": [
+            "maida",
+            "refined wheat flour",
+            "attenuated flour"
+        ],
+        "category": "Grains & Cereals",
+        "description": "Powder made from grinding wheat used as a primary structural ingredient in noodles, bakery, and snacks.",
+        "allergens": [
+            "Gluten",
+            "Wheat"
+        ],
+        "health_notes": [
+            "Contains gluten. Unsuitable for individuals with Celiac Disease or wheat allergy."
+        ],
+        "dietary_attributes": {
+            "vegan": true,
+            "vegetarian": true,
+            "gluten_free": false
+        }
+    }
+]

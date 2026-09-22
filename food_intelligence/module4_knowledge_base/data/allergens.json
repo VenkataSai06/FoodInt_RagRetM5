@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Gluten",
+        "synonyms": [
+            "wheat",
+            "barley",
+            "rye",
+            "spelt",
+            "maida"
+        ],
+        "severity_note": "High risk for Celiac patients; can cause intestinal inflammation.",
+        "common_sources": [
+            "Noodles",
+            "Bread",
+            "Pasta",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "name": "Peanuts",
+        "synonyms": [
+            "groundnut",
+            "peanut oil",
+            "arachis oil"
+        ],
+        "severity_note": "Potentially life-threatening allergen; can induce anaphylaxis.",
+        "common_sources": [
+            "Confectionery",
+            "Snack Mixes",
+            "Asian Sauces"
+        ]
+    },
+    {
+        "name": "Soy",
+        "synonyms": [
+            "soybean",
+            "soya lecithin",
+            "hydrolyzed soy protein",
+            "tofu"
+        ],
+        "severity_note": "Common allergen triggering digestive distress, skin rashes, or severe immune response.",
+        "common_sources": [
+            "Processed Snacks",
+            "Emulsifiers",
+            "Instant Noodles"
+        ]
+    },
+    {
+        "name": "Milk / Dairy",
+        "synonyms": [
+            "milk solids",
+            "whey",
+            "casein",
+            "lactose",
+            "milk powder"
+        ],
+        "severity_note": "Triggers allergic reactions in milk protein allergic individuals and severe distress in lactose intolerant individuals.",
+        "common_sources": [
+            "Chocolates",
+            "Biscuits",
+            "Creamy Snacks"
+        ]
+    }
+]
